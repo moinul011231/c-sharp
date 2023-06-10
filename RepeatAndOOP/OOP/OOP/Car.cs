@@ -17,8 +17,8 @@ namespace OOP
     internal class Car
     {
         private readonly Color _color = default;
-        private string _name;
-        private string _brand;
+        private string _name= "audi";
+        private string _brand = "au-1";
         private DateTime _year;
         //private int _speed;
         
