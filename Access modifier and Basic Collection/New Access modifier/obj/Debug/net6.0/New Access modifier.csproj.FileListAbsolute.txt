@@ -1,0 +1,15 @@
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\bin\Debug\net6.0\New Access modifier.exe
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\bin\Debug\net6.0\New Access modifier.deps.json
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\bin\Debug\net6.0\New Access modifier.runtimeconfig.json
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\bin\Debug\net6.0\New Access modifier.dll
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\bin\Debug\net6.0\New Access modifier.pdb
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.csproj.AssemblyReference.cache
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.AssemblyInfoInputs.cache
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.AssemblyInfo.cs
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.csproj.CoreCompileInputs.cache
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.dll
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\refint\New Access modifier.dll
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.pdb
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\New Access modifier.genruntimeconfig.cache
+C:\Users\Moinul\Desktop\C# first console app\Access modifier and Basic Collection\New Access modifier\obj\Debug\net6.0\ref\New Access modifier.dll
