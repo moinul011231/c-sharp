@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "New Access modifier/1.0.0": {
+        "runtime": {
+          "New Access modifier.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "New Access modifier/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
