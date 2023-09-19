@@ -89,8 +89,6 @@ namespace Data_Types_and_Variables_Coding
         {
             Tuple<int,string> person = new Tuple<int,string>(25, "Fariha");
             Console.WriteLine("Age: {0}\nName: {1}",person.Item1,person.Item2);
-
-
         }
     }
 }
